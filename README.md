@@ -1,8 +1,11 @@
 # Sales_data_analysis.
-# Sales Analysis: Staffing Trends
+# Sales Analysis: Unlocking Growth in Contractor Staffing
 
 ## 📌 Project Background
-This project analyzes staffing trends within a sales-driven organization to understand workforce allocation, efficiency, and cost management. The company operates in the [industry name] sector and has been active for [X years]. It follows a hybrid workforce model, utilizing both contracted and full-time employees to meet business demands.
+Clipboard Health has a nationwide opportunity to expand its contractor staffing services, but not all nursing homes rely on contractors equally. Some facilities face staff shortages, while others primarily use full-time employees—potential untapped markets.
+
+By analyzing 2024 Q2 PBJ staffing data and other CMS datasets, we can identify high-demand regions, understaffed facilities, and homes with low contractor utilization. This data-driven approach will help the sales team prioritize outreach, maximize impact, and grow Clipboard Health’s market share in the contractor staffing space.
+This project analyzes staffing trends within a sales-driven organization to understand workforce allocation, efficiency, and cost management. The company has been active for 9 years and operates in the healthcare sector. It follows a hybrid workforce model, utilizing both contracted and full-time employees to meet business demands.
 
 Key business metrics include:
 - **Total staffing hours** (contractors vs. employees)
@@ -10,9 +13,9 @@ Key business metrics include:
 - **Seasonal variations in staffing patterns**
 - **Impact of staffing structure on sales performance**
 
-As a Data Analyst at [Company Name], the goal is to evaluate workforce trends and optimize staffing decisions for operational efficiency.
+As a Data Analyst at Clipboard Health, the goal is to evaluate workforce trends and optimize staffing decisions for operational efficiency.
 
-## 📊 Executive Summary
+## Executive Summary
 **Key Findings:**
 1. **Contractor hours exhibit seasonal variations** with spikes in peak sales periods.
 2. **Full-time employees contribute to baseline staffing stability**, but contractor dependency fluctuates.
@@ -39,4 +42,5 @@ Based on these insights, the **HR & Operations Teams** should consider:
 ---
 
 💡 **Next Steps:** Consider extending the analysis to **sales impact per staffing category** to refine workforce strategy further.
+
 
