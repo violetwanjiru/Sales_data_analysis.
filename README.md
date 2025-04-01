@@ -32,7 +32,9 @@ As a Data Analyst at Clipboard Health, the goal is to evaluate workforce trends 
 4. Identify Facilities with Fluctuating Staffing Needs
 5. Identify States with the highest and least contractors
 
- **Python code:** Find the data cleaning and transformation code here: [Link to SQL scripts]
+
+ **Python code:** Find the data cleaning and transformation code here: [notebook](https://github.com/violetwanjiru/Sales_data_analysis./blob/main/Sales_Data_Analyst..ipynb)
+
 
 ##  Recommendations
 Based on these insights, the **Sales Team** should consider:
