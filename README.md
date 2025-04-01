@@ -17,30 +17,29 @@ As a Data Analyst at Clipboard Health, the goal is to evaluate workforce trends 
 
 ## Executive Summary
 **Key Findings:**
-1. **Contractor hours exhibit seasonal variations** with spikes in peak sales periods.
-2. **Full-time employees contribute to baseline staffing stability**, but contractor dependency fluctuates.
-3. **A higher contractor-to-employee ratio correlates with increased short-term sales but may impact long-term cost efficiency.**
+1. **Many nursing homes underutilize contractors, presenting growth opportunities.** Nearly 40% of facilities rely heavily on full-time employees. Expanding awareness of contractor benefits can drive adoption.
+2. **Certain states show lower contractor utilization, signalling untapped markets.**
+3. **Staffing volatility creates a need for more stable workforce solutions.** Facilities with high fluctuations in staffing can benefit from contractor staffing to maintain operational stability.
+4. **Nursing homes already using contractors represent retention and expansion opportunities.** 
+5. **Lower-rated facilities rely more on contractors, offering a unique value proposition.** 
+ **Visualization:**
+![top_states](https://github.com/user-attachments/assets/c0f0e2ea-8356-4574-b7fe-781a476c4fcd)
 
-📈 **Visualization:**
-*(Insert a snapshot of dashboard/graph illustrating contractor vs. employee staffing trends over time.)*
 
 ## 🔍 Key Areas of Analysis
-1. **Contractor vs. Employee Staffing Hours** – Trends in workforce allocation.
-2. **Seasonality and Peak Demand Periods** – Identifying periods of increased contractor use.
-3. **Staffing Cost Implications** – Evaluating cost efficiency of workforce structure.
-4. **Operational Recommendations** – How staffing decisions impact sales performance.
+1. Contractor vs. Employee Staffing Hours – Trends in workforce allocation.
+2. Identify nursing homes that rely heavily on contractor staff
+3. Assess how the employee vs contractor ratio affects the overall rating.
+4. Identify Facilities with Fluctuating Staffing Needs
+5. Identify States with the highest and least contractors
 
-📌 **SQL Queries Used:** Find the data cleaning and transformation queries here: [Link to SQL scripts]
+ **Python code:** Find the data cleaning and transformation code here: [Link to SQL scripts]
 
-## ✅ Recommendations
-Based on these insights, the **HR & Operations Teams** should consider:
+##  Recommendations
+Based on these insights, the **Sales Team** should consider:
 
-1. **Optimizing contractor staffing in peak sales periods** – Ensure adequate workforce allocation while managing costs.
-2. **Balancing full-time and contractor workforce** – Reduce over-reliance on temporary staffing for long-term efficiency.
-3. **Using data-driven forecasts for workforce planning** – Implement predictive models to allocate staffing based on expected demand.
-
----
-
-💡 **Next Steps:** Consider extending the analysis to **sales impact per staffing category** to refine workforce strategy further.
-
-
+1. **Expand Contractor Awareness in Employee-Heavy Facilities** - Nearly 40% of nursing homes rely primarily on full-time employees, but they may struggle with unexpected staffing shortages.
+2.  **Unlock Growth in Underserved States** – Alabama, Arkansas, Florida, and Nevada have the lowest contractor utilization. Target these states with data-driven outreach, demonstrating contractor staffing reduces overtime costs and ensures compliance. Use case studies to build trust.
+3. **Stabilize Workforce at High-Fluctuation Facilities** – Facilities like Marigold Rehabilitation HCC experience staffing volatility. Position contractor staffing as a solution for consistent workforce planning, reducing uncertainty and improving efficiency.
+4. **Strengthen Relationships with Contractor-Preferred Facilities** – Nursing homes like Isabela Geriatric Centre already embrace contractors. Differentiate our staffing solution by emphasizing superior quality, faster fulfilment, and cost advantages to secure long-term contracts.
+5. **Support Low-Rated Facilities with Strategic Staffing** – Lower-rated facilities rely more on contractors, likely due to retention and compliance issues. Offer a consultative approach to help stabilize operations, reduce turnover, and improve CMS ratings with a tailored contractor staffing plan.
