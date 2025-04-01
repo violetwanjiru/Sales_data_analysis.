@@ -1,4 +1,3 @@
-# Sales_data_analysis.
 # Sales Analysis: Unlocking Growth in Contractor Staffing
 
 ## 📌 Project Background
